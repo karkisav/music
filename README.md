@@ -144,9 +144,12 @@ for genre_data in full_result["genres"]:
 -   **Spotify Integration**: Integrate with the Spotify API to provide personalized recommendations and potentially map mood to Spotify audio features (e.g., `target_valence`, `energy`, `tempo`).
 -   **Robustness**: Add fallback mechanisms for sparse user profiles or low model confidence.
 
-## Contributing
+## Contributing Personel
 
-Contributions are welcome! Please feel free to open issues or submit pull requests.
+Koustubh: 23bc023
+Krishna: 23bcs074
+Saurav: 23bcs118
+Nirbhay: 23bec032
 
 ## License
 
